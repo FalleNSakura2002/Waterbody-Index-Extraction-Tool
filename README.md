@@ -1,1 +1,4 @@
-# Waterbody-Index-Extraction-Tool
+# 水体指数提取小工具
+## 可计算的水体指数
+- NDWI
+- NDFI
