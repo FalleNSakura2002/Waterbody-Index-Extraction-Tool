@@ -14,6 +14,8 @@
 - 手动阈值提取
 ## 使用截图
 - 影像浏览
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/FalleNSakura2002/Waterbody-Index-Extraction-Tool/blob/main/gif/imgload.gif)
 - 指数提取
+![image](https://github.com/FalleNSakura2002/Waterbody-Index-Extraction-Tool/blob/main/gif/indexcalculate.gif)
 - 阈值提取
+![image](https://github.com/FalleNSakura2002/Waterbody-Index-Extraction-Tool/blob/main/gif/threshold.gif)
