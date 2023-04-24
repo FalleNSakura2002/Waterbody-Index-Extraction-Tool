@@ -1,5 +1,5 @@
 # 水体指数提取小工具
-![image](https://img.shields.io/badge/numpy-%5E1.23.5-blue)
+![image](https://img.shields.io/badge/numpy-%5E1.23.5-blue)(https://img.shields.io/badge/GDAL-%5E3.3.3-blue)
 ## 可计算的水体指数
 - NDWI
 - MNDWI
